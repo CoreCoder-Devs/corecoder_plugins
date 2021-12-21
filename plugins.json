@@ -1,0 +1,12 @@
+{
+    "lua_love2d" : {
+      "author" : "Hanprogramer",
+      "desc" : "A Love2D Game Engine plugins",
+      "downloads" : 0,
+      "icon" : "https://github.com/CoreCoder-Devs/love2d_corecoder/raw/main/icon.png",
+      "min_version" : 0,
+      "name" : "Love 2D",
+      "repo" : "https://github.com/CoreCoder-Devs/love2d_corecoder",
+      "version" : "0.0.1"
+    }
+  }
