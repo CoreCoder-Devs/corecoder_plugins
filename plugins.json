@@ -14,9 +14,9 @@
       "author" : "Hanprogramer",
       "desc" : "A C# .NET game engine",
       "downloads" : 0,
-      "icon" : "https://github.com/CoreCoder-Devs/love2d_corecoder/raw/main/icon.png",
+      "icon" : "https://github.com/CoreCoder-Devs/monogame_desktop_corecoder/raw/main/icon.png",
       "min_version" : 0,
-      "name" : "Love 2D",
+      "name" : "Monogame (Desktop)",
       "repo" : "https://github.com/CoreCoder-Devs/monogame_desktop_corecoder",
       "version" : "0.0.1",  
 	  "identifier": "com.hanprogramer.monogamepluginsdesktop"
