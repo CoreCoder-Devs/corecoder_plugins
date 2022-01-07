@@ -10,7 +10,6 @@
       "version" : "0.0.1",  
 	  "identifier": "com.hanprogramer.lua2dplugins"
     },
-	
     "monogame_desktop" : {
       "author" : "Hanprogramer",
       "desc" : "A C# .NET game engine",
